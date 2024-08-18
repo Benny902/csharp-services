@@ -25,4 +25,4 @@ by implementing the following:
 
 The program itself will do a basic purpose:  
 the program will choose words from a list of words, based on a predefined common character.  
-this a simple way to mimic an advanced implementation of finding pictures based on facial recognition (which will be implemented eventually after all the services will be intergrated.  
+this a simple way to mimic an advanced implementation of finding pictures based on facial recognition (which will be implemented eventually after all the services will be integrated.  

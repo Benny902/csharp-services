@@ -1,0 +1,10 @@
+# components.yaml
+---
+apiVersion: dapr.io/v1alpha1
+kind: ServiceInvocation
+metadata:
+  name: csharpservices
+  namespace: default
+spec:
+  retries: 3
+  timeout: "10s"
